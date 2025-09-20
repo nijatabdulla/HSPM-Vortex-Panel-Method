@@ -1,2 +1,2 @@
-# Vortex-Panel-Method-HSPM-
-A Python implementation of the Hess-Smith Vortex Panel Method (HSPM) for analyzing 2D airfoils. This repository computes pressure distributions, tangential velocities, and lift coefficients based on airfoil coordinates.
+# HSPM Vortex Panel Method
+This repository implements the Hess-Smith Vortex Panel Method (HSPM) in Python, a classical numerical technique for predicting the aerodynamic characteristics of 2D airfoils. The method models the airfoil surface using discrete panels with vortex and source distributions, allowing calculation of pressure distribution, tangential velocity, and lift coefficient for any given angle of attack. It is suitable for educational purposes, preliminary airfoil analysis, and integrating into more advanced aerodynamic simulations.
